@@ -1,0 +1,35 @@
+[tool.poetry]
+name = "parse-imgur"
+version = "0.1.0"
+description = ""
+authors = ["Anna Kartasheva <annakartashevamail@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+bs4 = "^0.0.2"
+imgurpython = "^1.1.7"
+fastapi = "^0.115.11"
+ruff = "^0.11.0"
+uvicorn = "^0.34.0"
+jinja2-fragments = "^1.8.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.ruff]
+line-length = 80
+
+
+[tool.ruff.lint]
+select = [
+    # Pyflakes
+    "F",
+    # Pycodestyle
+    "E",
+    "W",
+    # isort
+    "I001"
+]
