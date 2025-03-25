@@ -12,4 +12,4 @@
 - Get Client ID and Client Secret from Imgur after registering your app with your account.
 - Go to Postpan, select OAoth2 in the Authorization section, specify Client ID and Client Secret. Authorize via browser. 
 - Create a "bearer_token.py". Write Access Token as TOKEN from and CLIENT_ID there.
-Run python with: ```poetry run python run.py```
+- Run python with: ```poetry run python run.py```
