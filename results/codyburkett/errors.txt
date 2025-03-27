@@ -1,0 +1,16 @@
+{"status":404,"success":false,"data":{"error":"album not found","request":"/3/album/9PHIGw8","method":"GET"}}
+
+####################################################################################################
+{"status":404,"success":false,"data":{"error":"album not found","request":"/3/album/Fg40ITo","method":"GET"}}
+
+####################################################################################################
+{"status":404,"success":false,"data":{"error":"album not found","request":"/3/album/Ayck3rL","method":"GET"}}
+
+####################################################################################################
+{"status":404,"success":false,"data":{"error":"album not found","request":"/3/album/BBVY87n","method":"GET"}}
+
+####################################################################################################
+{"status":404,"success":false,"data":{"error":"album not found","request":"/3/album/6IB4aOa","method":"GET"}}
+
+####################################################################################################
+{"status":404,"success":false,"data":{"error":"album not found","request":"/3/album/YaSzPwz","method":"GET"}}
